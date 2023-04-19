@@ -7,28 +7,20 @@ This web interface, enables partners to perform financial transactions (money tr
 - Proof of Work consensus algorithm for mining new blocks
 - Blockchain validation to ensure data integrity
 # Installation and Setup
-1. Clone this repository to your local machine.
-bash
 
-Copy code
-git clone https://github.com/yourusername/yourrepository.git
+### Note: You can download Python from the official website: [Python](https://www.python.org/downloads/)
+
+1. Clone this repository to your local machine.
+`git clone` [GitHub_REPO](git@github.com:julio-rod/decentralized-blockchain-based-ledger.git)
 
 2. Navigate to the project directory.
-bash
-
-Copy code
-cd yourrepository
+`cd yourrepository`
 	
 3. Install the required Python packages.
-
-Copy code
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 	
 4.	Run the Streamlit application.
-arduino
-
-Copy code
-streamlit run pychain.py
+`streamlit run pychain.py`
 	
 5.	Open the Streamlit application in your browser using the URL provided in the terminal.
 # Usage 
@@ -43,3 +35,5 @@ streamlit run pychain.py
 - Streamlit
 - Dataclasses
 - Hahlib
+# Refrence
+[UCB-Bootcamp_Spot](https://courses.bootcampspot.com/courses/2916/pages/18-dot-1-introduction?module_item_id=872071)
