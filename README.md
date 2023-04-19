@@ -11,7 +11,7 @@ This web interface, enables partners to perform financial transactions (money tr
 ### Note: You can download Python from the official website: [Python](https://www.python.org/downloads/)
 
 1. Clone this repository to your local machine.
-`git clone` [GitHub_REPO](git@github.com:julio-rod/decentralized-blockchain-based-ledger.git)
+`git clone`
 
 2. Navigate to the project directory.
 `cd yourrepository`
