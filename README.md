@@ -35,5 +35,7 @@ This web interface, enables partners to perform financial transactions (money tr
 - Streamlit
 - Dataclasses
 - Hahlib
-# Refrence
+# Acknowledgments
 [UCB-Bootcamp_Spot](https://courses.bootcampspot.com/courses/2916/pages/18-dot-1-introduction?module_item_id=872071)
+# contact
+[Julio Rodvilla](https://twitter.com/juliorodvilla)
